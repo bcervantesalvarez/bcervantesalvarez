@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bcervantesalvarez
 - 👀 I’m interested in becoming a Data Scientist
-- 🌱 I’m currently learning Data Science and Mathematics
-- 💞️ I’m looking to collaborate on solving real world problems with AI
+- 🌱 I’m currently learning Data Science and Statisitcs
+- 💞️ I’m looking to collaborate on solving real world problems using statisitcs and machine learning techniques
 - 📫 How to reach me: briancervantesalvarez@gmail.com 
 
 <!---
