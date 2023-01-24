@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @bcervantesalvarez
-- 👀 I’m interested in becoming a Data Scientist
-- 🌱 I’m currently learning Data Science
-- 😲 Eventually, I want collaborate on solving real world problems using statistics and machine learning techniques
-- 📫 How to reach me: briancervantesalvarez@gmail.com 
+- 👋 Hi, I’m Brian!
+- 👀 I’m currently building my skills as a Data Scientist
+- 🌱 I’m learning Machine Learning + Survival Analysis
+- 📫 Need my skills? Reach out: briancervantesalvarez@gmail.com 
 
 <!---
 bcervantesalvarez/bcervantesalvarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
