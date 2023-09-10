@@ -6,7 +6,7 @@
 - 🧠 I'm on an exciting quest to become a Data Scientist extraordinaire.
 - 🎓 I recently completed my Master of Science in Data Science at Willamette University! 🙌
 - 📚 Currently, I'm diving headfirst into my second Master's program in Statistics.
-- 📜 But that's not all – I've got my sights set on a Ph.D. in the near future!
+- 📜 But that's not all – I've got my sights set on a Ph.D. in the same field!
 
 📫 Stay tuned as I share my insights, projects, and discoveries on this epic adventure into the world of data science and statistics! 📊📈📉
 
