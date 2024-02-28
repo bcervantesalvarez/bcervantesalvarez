@@ -4,7 +4,7 @@ Welcome to my data-driven journey!
 
 Here's a little about me:
 
-- I'm on a mission to excel as a Data Scientist.
+- I'm on a mission to excel as a Data Scientist | Statistician
 - 🎓 Educational Background:
   - Bachelor’s Degree: Mathematics at Linfield University
   - Master’s Degree: Data Science at Willamette University
