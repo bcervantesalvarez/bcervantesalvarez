@@ -22,6 +22,7 @@ Here's a little about me:
 
 📫 Stay tuned as I share insights, projects, and discoveries on this epic adventure into the world of data science and statistics! Let's connect, collaborate, or simply say hi! 🚀 #DataScience #Statistics #PhDJourney
 
+Here's my website: https://bcervantesalvarez.github.io/Portfolio/
 <!---
 bcervantesalvarez/bcervantesalvarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
