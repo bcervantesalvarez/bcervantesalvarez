@@ -20,8 +20,6 @@ I'm on a mission to excel as a Data Scientist | Statistician
   - Eager to contribute value to the Department of Statistics at Oregon State University
   - Committed to tackling real-world complexities and contributing to innovative projects
 
-📫 Stay tuned as I share insights, projects, and discoveries on this epic adventure into the world of data science and statistics! Let's connect, collaborate, or simply say hi! 🚀 #DataScience #Statistics #PhDJourney
-
 Here's my website: https://bcervantesalvarez.github.io/Portfolio/
 <!---
 bcervantesalvarez/bcervantesalvarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
